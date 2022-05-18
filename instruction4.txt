@@ -1,0 +1,11 @@
+LW   r1 r2
+SW   r1 r2
+LW   r1 r2
+SUB  r9 r9 r9
+SW   r1 r2
+LW   r3 r4
+SW   r4 r3
+LW   r3 r4
+SUB  r9 r9 r9
+SW   r3 r4
+
